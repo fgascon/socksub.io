@@ -1,0 +1,28 @@
+{
+  "name": "socksub.io",
+  "version": "0.0.0",
+  "description": "SockSub + Socket.IO + Promises = great websocket interface",
+  "main": "lib/socksub.io.js",
+  "browser": "browser/socksub.io.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgascon/socksub.io.git"
+  },
+  "keywords": [
+    "socksub",
+    "socket.io",
+    "websocket"
+  ],
+  "author": "fgascon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fgascon/socksub.io/issues"
+  },
+  "homepage": "https://github.com/fgascon/socksub.io#readme",
+  "dependencies": {
+    "bluebird": "^2.10.1",
+    "socket.io": "^1.3.7",
+    "socket.io-client": "^1.3.7",
+    "socksub": "^3.0.1"
+  }
+}
