@@ -23,6 +23,6 @@
     "bluebird": "^2.10.1",
     "socket.io": "^1.3.7",
     "socket.io-client": "^1.3.7",
-    "socksub": "^3.0.1"
+    "socksub": "^5.0.1"
   }
 }
